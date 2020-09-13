@@ -1,0 +1,1 @@
+# tf2_bot_nav_points
